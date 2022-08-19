@@ -1,0 +1,15 @@
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\bin\Debug\net6.0\Example001_HellowConsol.exe
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\bin\Debug\net6.0\Example001_HellowConsol.deps.json
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\bin\Debug\net6.0\Example001_HellowConsol.runtimeconfig.json
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\bin\Debug\net6.0\Example001_HellowConsol.dll
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\bin\Debug\net6.0\Example001_HellowConsol.pdb
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\obj\Debug\net6.0\Example001_HellowConsol.csproj.AssemblyReference.cache
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\obj\Debug\net6.0\Example001_HellowConsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\obj\Debug\net6.0\Example001_HellowConsol.AssemblyInfoInputs.cache
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\obj\Debug\net6.0\Example001_HellowConsol.AssemblyInfo.cs
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\obj\Debug\net6.0\Example001_HellowConsol.csproj.CoreCompileInputs.cache
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\obj\Debug\net6.0\Example001_HellowConsol.dll
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\obj\Debug\net6.0\refint\Example001_HellowConsol.dll
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\obj\Debug\net6.0\Example001_HellowConsol.pdb
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\obj\Debug\net6.0\Example001_HellowConsol.genruntimeconfig.cache
+C:\Users\maksa\OneDrive\Документы\моя учеба\Examples\Example001_HellowConsol\obj\Debug\net6.0\ref\Example001_HellowConsol.dll
